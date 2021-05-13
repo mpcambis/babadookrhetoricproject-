@@ -1,0 +1,122 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%; 
+    height: 1000px;
+    position: relative; 
+    background-image: url(images/backgroundcopy.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+    font-family: orpheuspro, serif;
+font-weight: 700;
+font-style: normal;
+text-align: left; 
+font-size: 40px; 
+margin-left: 3% ;
+margin-top: 2%;
+width: 400px; 
+}
+
+h2 {
+    font-family: orpheuspro, serif;
+font-weight: 400;
+font-style: italic;
+text-align: left; 
+font-size: 20px; 
+margin-left: 3% ;
+width: 400px; 
+}
+
+h3 {
+    font-family: orpheuspro, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left; 
+    font-size: 25px; 
+    margin: 0 auto; 
+    margin-top: 10%;
+    width: 900px; 
+}
+audio {
+    width: 300px;
+    bottom: 5%;
+    right: 2%;
+  position: fixed;
+
+
+}
+.container1 {
+    text-align: right;
+    margin-left: 45%; 
+    margin-top: -5.5%;
+    width: 800px;
+    
+}
+
+.button1 {
+    font-family: orpheuspro,serif;
+font-weight: 500;
+font-style: normal;
+    border: none;
+    color: rgb(51, 41, 41);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 2px ;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+    
+}
+.button2
+{
+    font-family: orpheuspro,serif;
+font-weight: 500;
+font-style: normal;
+    border: none;
+    color: rgb(51, 41, 41);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 2px ;
+    margin-left: 70px;
+}
+.button3
+{
+    font-family: orpheuspro,serif;
+font-weight: 500;
+font-style: normal;
+    border: none;
+    color: rgb(51, 41, 41);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 2px ;
+    margin-left: 90px;
+}
+
+a:link, a:visited {
+    font-family: 'orpheuspro' ;
+    color: black;
+    text-decoration: underline;
+    display: inline-block;
+
+
+  }
+
+  a:hover, a:active {
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: italic;
+  }
+
+ 
